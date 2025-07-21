@@ -64,7 +64,7 @@ Image with Title Tooltip:
 ![GitHub Demo](https://github.com/rizzhubkr/github-demo/blob/main/demo.png "Demo Image")
 
 Image as a link:  
-[![OpenAI Logo](https://via.placeholder.com/100)](https://www.openai.com)
+[![OpenAI Logo]([https://via.placeholder.com/100](https://media.discordapp.net/attachments/1230712447300669522/1396821894522470441/5A557332-2C11-4564-8658-A016B646BD80.jpg?ex=687f7b43&is=687e29c3&hm=ba3ead3c6f67cb413114c3757e974feabf89d450d9e2a378c53166df46ef8e87&=&format=webp&width=239&height=438))]([https://www.openai.com](https://github.com/rizzhubkr))
 
 ---
 
