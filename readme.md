@@ -58,13 +58,13 @@ Reference-style:
 ## 🖼️ Images
 
 Basic Image:  
-![Placeholder](https://cdn.discordapp.com/avatars/1177102238490050641/01c7ec349681d41ff190190adad88505.png?size=1024)
+![Placeholder](https://cdn.discordapp.com/avatars/1177102238490050641/01c7ec349681d41ff190190adad88505.png?size=100)
 
 Image with Title Tooltip:  
 ![GitHub Demo](https://github.com/rizzhubkr/github-demo/blob/main/demo.png "Demo Image")
 
 Image as a link:  
-[![OpenAI Logo](https://cdn.discordapp.com/avatars/1350539567626850367/d3324316e6625ee90231ca067a458b54.png?size=512)](https://github.com/rizzhubkr)
+[![OpenAI Logo](https://cdn.discordapp.com/avatars/1350539567626850367/d3324316e6625ee90231ca067a458b54.png?size=100)](https://github.com/rizzhubkr)
 
 ---
 
