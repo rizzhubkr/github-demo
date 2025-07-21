@@ -58,7 +58,7 @@ Reference-style:
 ## 🖼️ Images
 
 Basic Image:  
-![Placeholder](https://via.placeholder.com/150)
+![Placeholder](https://cdn.discordapp.com/avatars/1177102238490050641/01c7ec349681d41ff190190adad88505.png?size=1024)
 
 Image with Title Tooltip:  
 ![GitHub Demo](https://github.com/rizzhubkr/github-demo/blob/main/demo.png "Demo Image")
