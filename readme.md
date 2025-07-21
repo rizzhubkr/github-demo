@@ -46,7 +46,7 @@
 
 ## 🖼️ Images
 
-![Alt text](https://via.placeholder.com/150 "Optional Title")
+![Alt text]([https://via.placeholder.com/150](https://github.com/rizzhubkr/github-demo/blob/main/demo.png) "Optional Title")
 
 ---
 
