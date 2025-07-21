@@ -83,6 +83,7 @@ function greet(name) {
   return `Hello, ${name}! 👋`;
 }
 console.log(greet("World"));
+```
 
 #### Python
 ```python
@@ -91,4 +92,4 @@ def greet(name):
     return f"Hello, {name}! 👋"
 
 print(greet("World"))
-
+```
